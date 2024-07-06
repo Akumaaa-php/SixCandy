@@ -29,8 +29,8 @@
 
 ## Screenshots
 
-![image](https://github.com/giorgi-o/SkinPeek/assets/20621396/333d872d-43f1-4578-b58b-d797020c0a23)
-![image](https://user-images.githubusercontent.com/20621396/229211674-0ab4ae95-0889-4f43-a446-69887ca664e3.png)
+![image](https://media.discordapp.net/attachments/1045737952711540766/1258877034483159151/2CxXyXs.png?ex=668a4cd9&is=6688fb59&hm=60b13da530d1e00d3c2affc6cdbe0e97d930bfc1ef25823454d6ba6d9b2f081f&=&format=png)
+![image](https://media.discordapp.net/attachments/1045737952711540766/1259191509190836294/J0XcE0j.png?ex=668ac8fa&is=6689777a&hm=7b21847b644f702450c4ee360b67ca4f34032658107a6b03416b378a1c789210&=&format=png)
 
 <details>
 <summary>See some more screenshots</summary>
@@ -69,9 +69,9 @@
 
 - [Create a discord bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot) and [add it to your server](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#creating-and-using-your-invite-link) with the `bot` and `applications.commands` scope
 - Install [Node.js](https://nodejs.org/en/) v16.6 or newer
-- Clone/[Download](https://github.com/giorgi-o/SkinPeek/archive/refs/heads/master.zip) the repo, rename the `config.json.example` file to `config.json` and put your bot token into it.
+- Clone/[Download](https://github.com/Akumaaa-php/SixCandy/archive/refs/heads/master.zip) the repo, rename the `config.json.example` file to `config.json` and put your bot token into it.
 - [Open a command prompt in the same folder](https://www.thewindowsclub.com/how-to-open-command-prompt-from-right-click-menu#:~:text=To%20open%20a%20command%20prompt%20window%20in%20any%20folder%2C%20simply,the%20same%20inside%20any%20folder.) and type `npm i` to install dependencies
-- Run [SkinPeek.js](https://github.com/giorgi-o/SkinPeek/blob/master/SkinPeek.js) using `node SkinPeek.js` in the command prompt
+- Run [SkinPeek.js](https://github.com/Akumaaa-php/SixCandy/blob/master/SkinPeek.js) using `node SkinPeek.js` in the command prompt
 - And that's it! Don't forget too give the bot a [role](https://support.discord.com/hc/en-us/articles/206029707-Setting-Up-Permissions-FAQ) that allows it to send messages and create custom emojis.
 
 ## Useful Information
@@ -96,7 +96,7 @@
 For advanced users who want to deploy the bot using [Docker](https://www.docker.com/):
 
 - [Create a discord bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot) and [add it to your server](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#creating-and-using-your-invite-link) with the `bot` and `applications.commands` scope
-- Create a docker-compose file like [this](https://github.com/giorgi-o/SkinPeek/blob/master/docker-compose.yml) and a config file like [this](https://github.com/giorgi-o/SkinPeek/blob/master/config.json.example)
+- Create a docker-compose file like [this](https://github.com/Akumaaa-php/SixCandy/blob/main/docker-compose.yml) and a config file like [this](https://github.com/Akumaaa-php/SixCandy/blob/master/config.json.example)
 - Put your bot token in [config.json](https://github.com/giorgi-o/SkinPeek/blob/master/config.json.example)
 - Use `docker-compose up -d` to start the bot, `docker-compose logs -f` to see the logs and `docker-compose down` to stop it.
 
@@ -108,6 +108,7 @@ For advanced users who want to deploy the bot using [Docker](https://www.docker.
 - [muckelba](https://github.com/muckelba) for writing the battlepass calculator
 - [warriorzz](https://github.com/warriorzz) for setting up the Docker
 - [The dev discord server](https://discord.gg/a9yzrw3KAm), join here!
+- [Giorgio](https://github.com/giorgi-o) for the Source Code
 
 Special thanks to [Mistral](https://github.com/blongnh), [Jukki](https://github.com/Kyedae) and [Keny](https://github.com/pandakeny) for their countless bug reports, suggestions and feedback, and without whom the bot wouldn't be anywhere near as good as what it is today.
 
@@ -121,5 +122,7 @@ If you are fluent in another language and would like help translate the bot, eit
 4. Open the file and do the thing.
 
 Once you're done translating, you can either [fork the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [open a GitHub pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), or you can just send me the JSON on discord and I'll upload it for you (with credit, of course).
+
+All this was posible thanks to [SkinPeek](https://github.com/giorgi-o/SkinPeek) by [Giorgio](https://github.com/giorgi-o). 💖
 
 Thank you! ❤️
