@@ -19,7 +19,7 @@
 </p>
   
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1045737952711540766/1259188210223939584/o2YNncW.png?ex=668ac5e7&is=66897467&hm=d0f5cebe296d916372f580d6e9c0eef7d054eb4e785aa9ed114ace5f0309b9f8&=&format=png)" alt="sixcandylogo" width="150">
+  <img src="https://media.discordapp.net/attachments/1045737952711540766/1259188210223939584/o2YNncW.png?ex=668ac5e7&is=66897467&hm=d0f5cebe296d916372f580d6e9c0eef7d054eb4e785aa9ed114ace5f0309b9f8&=&format=png" alt="sixcandylogo" width="150">
 </p>
 
 <p align="center">
