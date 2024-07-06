@@ -19,11 +19,11 @@
 </p>
   
 <p align="center">
-  <img src="https://github.com/giorgi-o/SkinPeek/assets/20621396/abfc3615-0baa-403d-a914-472e0311e76b" alt="skinpeeklogo" width="150">
+  <img src="[https://github.com/giorgi-o/SkinPeek/assets/20621396/abfc3615-0baa-403d-a914-472e0311e76b](https://media.discordapp.net/attachments/1045737952711540766/1258877034483159151/2CxXyXs.png?ex=668a4cd9&is=6688fb59&hm=60b13da530d1e00d3c2affc6cdbe0e97d930bfc1ef25823454d6ba6d9b2f081f&=&format=webp&quality=lossless&width=423&height=634)" alt="skinpeeklogo" width="150">
 </p>
 
 <p align="center">
-  Feel free to join the <a href="https://discord.gg/cutBUa3j4M">support server</a> if you need any help!
+  Feel free to join the <a href="[https://discord.gg/cutBUa3j4M](https://discord.com/invite/jTUT3KxaPd)">support server</a> if you need any help!
 </p>
 <hr>
 
