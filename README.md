@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  Feel free to join the <a href="[https://discord.gg/jTUT3KxaPd](https://discord.com/invite/jTUT3KxaPd)">support server</a> if you need any help!
+  Feel free to join the <a href="https://discord.gg/jTUT3KxaPd">support server</a> if you need any help!
 </p>
 <hr>
 
