@@ -1,6 +1,6 @@
 <hr>
 
-<h1 align="center">SkinPeek</h1>
+<h1 align="center">[6c] Six Candy</h1>
   
 <p align="center">
   <a href="#features">Features</a> |
@@ -32,18 +32,6 @@
 ![image](https://media.discordapp.net/attachments/1045737952711540766/1258877034483159151/2CxXyXs.png?ex=668a4cd9&is=6688fb59&hm=60b13da530d1e00d3c2affc6cdbe0e97d930bfc1ef25823454d6ba6d9b2f081f&=&format=png)
 ![image](https://media.discordapp.net/attachments/1045737952711540766/1259191509190836294/J0XcE0j.png?ex=668ac8fa&is=6689777a&hm=7b21847b644f702450c4ee360b67ca4f34032658107a6b03416b378a1c789210&=&format=png)
 
-<details>
-<summary>See some more screenshots</summary>
-
-<img src="https://user-images.githubusercontent.com/20621396/184029778-cc9e0306-8e23-4948-9d1d-5fe0db5d7e76.png" alt="nightmarket" width="501" ><br>
-<img src="https://user-images.githubusercontent.com/20621396/184029833-5abc2141-0876-41f5-9f0d-5d137f548472.png" alt="stats" width="556" ><br>
-<img src="https://user-images.githubusercontent.com/20621396/184029864-97c8d7c9-ba21-49f6-9777-1054f6dc9bee.png" alt="reaverstats" width="389" ><br>
-<img src="https://user-images.githubusercontent.com/20621396/184029894-6222e1ed-1536-42f0-bcf4-156a6ea3db06.png" alt="balance" width="284" ><br>
-<img src="https://user-images.githubusercontent.com/20621396/184029907-6df0e9af-a9aa-494c-9577-a4d57cfe5622.png" alt="battlepass" width="504" ><br>
-<img src="https://user-images.githubusercontent.com/20621396/186977298-d668c22c-ccfa-441a-82d9-f7430fe14e25.png" alt="collection" width="506" ><br>
-
-
-</details>
 
 ## Features
 
