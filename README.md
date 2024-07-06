@@ -60,11 +60,13 @@
 - Clone/[Download](https://github.com/Akumaaa-php/SixCandy/archive/refs/heads/master.zip) the repo, rename the `config.json.example` file to `config.json` and put your bot token into it.
 - [Open a command prompt in the same folder](https://www.thewindowsclub.com/how-to-open-command-prompt-from-right-click-menu#:~:text=To%20open%20a%20command%20prompt%20window%20in%20any%20folder%2C%20simply,the%20same%20inside%20any%20folder.) and type `npm i` to install dependencies
 - Run [SkinPeek.js](https://github.com/Akumaaa-php/SixCandy/blob/master/SkinPeek.js) using `node SkinPeek.js` in the command prompt
+- If the bot is in more than 2500+ servers, instead run [sharding.js](https://github.com/Akumaaa-php/SixCandy/blob/main/sharding.js) using `node sharding.js` in the command prompt.
+- Also 
 - And that's it! Don't forget too give the bot a [role](https://support.discord.com/hc/en-us/articles/206029707-Setting-Up-Permissions-FAQ) that allows it to send messages and create custom emojis.
 
 ## Useful Information
 
-- [Can I get banned for using SkinPeek?](https://github.com/giorgi-o/SkinPeek/wiki/Can-I-get-banned-for-using-SkinPeek%3F) (spoiler: nope, it's safe to use!)
+- [Can I get banned for using SixCandy?](https://github.com/giorgi-o/SkinPeek/wiki/Can-I-get-banned-for-using-SkinPeek%3F) (spoiler: nope, it's safe to use!)
 
 - After installing, the bot should automatically deploy the slash commands globally. If they don't appear:
   - If you're getting `DiscordAPIError: Missing Access`, you probably forgot to add the `applications.commands` scope in step 1
@@ -85,7 +87,7 @@ For advanced users who want to deploy the bot using [Docker](https://www.docker.
 
 - [Create a discord bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot) and [add it to your server](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#creating-and-using-your-invite-link) with the `bot` and `applications.commands` scope
 - Create a docker-compose file like [this](https://github.com/Akumaaa-php/SixCandy/blob/main/docker-compose.yml) and a config file like [this](https://github.com/Akumaaa-php/SixCandy/blob/master/config.json.example)
-- Put your bot token in [config.json](https://github.com/giorgi-o/SkinPeek/blob/master/config.json.example)
+- Put your bot token in [config.json](https://github.com/Akumaaa-php/SixCandy/blob/master/config.json.example)
 - Use `docker-compose up -d` to start the bot, `docker-compose logs -f` to see the logs and `docker-compose down` to stop it.
 
 
